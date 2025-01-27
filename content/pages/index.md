@@ -131,7 +131,7 @@ sections:
           name: message
           label: Tell me about your project
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Tell me about your subject
           width: full
           isRequired: true
       submitLabel: Send Message
