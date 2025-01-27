@@ -4,7 +4,7 @@ title: AI are so hot right nowPrivacy Policy
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: 'I do not access, store, or in any way   keep user data'
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image5.jpg
