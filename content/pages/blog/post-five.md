@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: AI are so hot right nowPrivacy Policy
+title: Privacy Policy
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
