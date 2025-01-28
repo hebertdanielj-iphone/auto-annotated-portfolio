@@ -5,7 +5,7 @@ colors: colors-a
 date: '2021-12-20'
 client: iPhone app
 description: >-
-  This app allows users to experience the beauty and tranquility of flutes and
+  This app allows users to experience the beauty and tranquility of flute and
   guitar music mixed with nature sounds.
 featuredImage:
   type: ImageBlock
