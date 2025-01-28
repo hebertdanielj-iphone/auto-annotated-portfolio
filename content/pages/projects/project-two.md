@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/flute_guitar_nature_scene_1024x1024.jpeg
   altText: Project image
 ---
 
