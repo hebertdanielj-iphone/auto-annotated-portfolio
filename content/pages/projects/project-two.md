@@ -13,6 +13,12 @@ featuredImage:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
+media:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 Koto in Nature allows you to compose relaxing koto music with calming nature sounds to allow for a unique listening experience. Many combinations of koto and nature sounds allow you to compose songs suited to your individual tastes. The composed songs are stored on your iPhone and can be played again and again. Use this app for relaxation, meditation, while exercising, studying, reading, or any other activity that you enjoy.
 
