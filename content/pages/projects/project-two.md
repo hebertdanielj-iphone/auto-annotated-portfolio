@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Flute and Guitar in Nature
+title: Koto in Nature
 colors: colors-a
 date: '2021-12-20'
 client: iPhone app
