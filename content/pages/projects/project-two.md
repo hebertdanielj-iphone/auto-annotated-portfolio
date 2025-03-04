@@ -5,8 +5,8 @@ colors: colors-a
 date: '2025-03-04'
 client: iPhone app
 description: >-
-  This app allows users to experience the beauty and tranquility of flute and
-  guitar music mixed with nature sounds.
+  This app allows users to experience the beauty and tranquility of koto music
+  mixed with nature sounds.
 featuredImage:
   type: ImageBlock
   url: /images/flute_guitar_nature_scene_1024x1024.jpeg
