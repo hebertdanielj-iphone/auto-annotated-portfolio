@@ -11,5 +11,11 @@ media:
   type: ImageBlock
   url: /images/flute_guitar_nature_scene_1024x1024.jpeg
   altText: Project image
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 This is where I will provide more information on Flute and Guitar in Nature
