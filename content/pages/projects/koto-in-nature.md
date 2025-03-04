@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Koto in Nature
+title: ''
 date: '2025-03-04'
 client: Awesome client
 description: >-
