@@ -54,7 +54,6 @@ sections:
         iconPosition: right
         elementId: ''
     projects:
-      - content/pages/projects/project-one.md
       - content/pages/projects/koto-in-nature.md
       - content/pages/projects/project-two.md
     colors: colors-f
