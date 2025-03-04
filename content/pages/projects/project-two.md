@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Koto in Nature
 colors: colors-a
-date: '0002-03-04'
+date: '2025-03-04'
 client: iPhone app
 description: >-
   This app allows users to experience the beauty and tranquility of flute and
