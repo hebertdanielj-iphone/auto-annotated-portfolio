@@ -4,7 +4,7 @@ title: "Privacy policy\U0001F5C2️"
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: 'I do not access, store, or in any way keep any user information'
+excerpt: I value everyone's privacy and do not store or keep any user data.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
