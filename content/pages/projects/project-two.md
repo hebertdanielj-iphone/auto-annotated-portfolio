@@ -9,7 +9,7 @@ description: >-
   mixed with nature sounds.
 featuredImage:
   type: ImageBlock
-  url: /images/icon.jpg
+  url: /images/icon 2.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
