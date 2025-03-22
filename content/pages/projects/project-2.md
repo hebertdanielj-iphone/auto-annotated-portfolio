@@ -12,12 +12,6 @@ featuredImage:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
-media:
-  type: ImageBlock
-  url: /images/icon 2.jpg
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 bottomSections: []
 metaTags: []
 colors: colors-a
