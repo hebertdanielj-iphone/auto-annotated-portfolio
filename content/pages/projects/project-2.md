@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Piano in Nature
-date: '2025-03-02'
+date: '2025-03-22'
 client: iPhone app
 description: >-
   This app allows users to experience the beauty and tranquility of koto music
