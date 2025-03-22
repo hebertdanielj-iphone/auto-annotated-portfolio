@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Koto in Nature
+title: Piano in Nature
 date: '2025-03-04'
 client: iPhone app
 description: >-
