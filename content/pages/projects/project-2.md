@@ -8,13 +8,7 @@ description: >-
   mixed with nature sounds.
 featuredImage:
   type: ImageBlock
-  url: /images/icon 2.jpg
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
-media:
-  type: ImageBlock
-  url: /images/icon 2.jpg
+  url: /images/icon.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
