@@ -55,6 +55,7 @@ sections:
         elementId: ''
     projects:
       - content/pages/projects/project-two.md
+      - content/pages/projects/project-2.md
     colors: colors-f
     variant: variant-a
     elementId: ''
