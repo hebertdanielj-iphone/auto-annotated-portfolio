@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Guitar in Nature
+title: Flute and Nature
 date: '2025-03-04'
 client: iPhone app
 description: >-
