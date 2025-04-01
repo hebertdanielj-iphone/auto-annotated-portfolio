@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Daniel Hebert - iPhone Developer
-    subtitle: I design and implement iPhone apps
+    subtitle: >-
+      I design and implement iPhone apps that provide the user with the
+      capability of mixing music with nature sounds.
     styles:
       self:
         height: auto
