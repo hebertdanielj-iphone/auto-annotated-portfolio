@@ -14,7 +14,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/icon.jpeg
+  url: /images/icon 3.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
