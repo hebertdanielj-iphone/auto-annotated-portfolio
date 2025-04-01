@@ -4,7 +4,7 @@ title: Flute and Nature
 date: '2025-03-04'
 client: iPhone app
 description: >-
-  This app allows users to experience the beauty and tranquility of guitar music
+  This app allows users to experience the beauty and tranquility of flute music
   mixed with nature sounds.
 featuredImage:
   type: ImageBlock
