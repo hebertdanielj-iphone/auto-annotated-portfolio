@@ -1,29 +1,70 @@
 ---
 type: ProjectLayout
-title: One more cool project
-colors: colors-a
-date: '2022-01-22'
-client: Awesome client
+title: Guitar in Nature
+date: '2025-03-04'
+client: iPhone app
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  This app allows users to experience the beauty and tranquility of guitar music
+  mixed with nature sounds.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project thumbnail image
+  url: /images/icon.jpeg
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project image
+  url: /images/icon.jpeg
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
+bottomSections: []
+metaTags: []
+colors: colors-a
 ---
+Guitar in Nature allows you to compose relaxing piano music with calming nature sounds to allow for a unique listening experience. Many combinations of guitar and nature sounds allow you to compose songs suited to your individual tastes. The composed songs are stored on your iPhone and can be played again and again. Use this app for relaxation, meditation, while exercising, studying, reading, or any other activity that you enjoy.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Guitar in Nature Features
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+
+
+Guitar Songs: You can touch any of your songs to listen to the guitar song.
+
+
+
+
+Nature Sounds: You can touch any of your nature sounds to listen to the nature sound.
+
+
+
+
+Compose Songs: You can select one guitar song and combine it with up to two nature sounds. You can adjust the volume of both the guitar song and nature sounds to get just the right mix that you will enjoy. Play the composed song and adjust the volumes as the song is playing. Once you have the exact mix that you enjoy, save the composition with a unique name. 
+
+
+
+
+Play Composed Songs: You are presented with a list of your composed songs. You can play just one song by touching it, or you can loop that song by touching the loop icon before playing the composed song. If you would like to use your composed songs as a playlist, ,just touch the song that you want to start with, and all of the songs will play in order continuously until you press stop.
+
+
+
+
+Buy Guitar Songs: You are presented with a scrollable list of additional guitar songs available for purchase. If the price is not shown, you already own that song. To purchase a song, touch the price button and you will be stepped through the purchasing process. Once a guitar song is purchased, it will show up in your list of guitar songs, as well as on the compose song screen. Once you make a purchase, it is yours and never expires.
+
+
+
+
+Buy Nature Sounds: You are presented with a scrollable list of additional nature sounds available for purchase. If the price is not shown you already own that sound. To purchase a sound, touch the price button and you will be stepped through the purchasing process. Once a nature sound is purchased, it will show up in your list of nature sounds, as well as on the compose song screen. Once you make a purchase, it is yours and never expires.
+
+
+
+
+Buy Subscriptions: You can subscribe to all guitar songs and all nature sounds for one year with automatic renewal or for one month with automatic renewal.
+
+
+
+
+Terms of use: https\://www\.apple.com/legal/internet-services/itunes/dev/stdeula/
