@@ -4,7 +4,7 @@ title: Guitar in Nature
 date: '2025-03-04'
 client: iPhone app
 description: >-
-  This app allows users to experience the beauty and tranquility of koto music
+  This app allows users to experience the beauty and tranquility of guitar music
   mixed with nature sounds.
 featuredImage:
   type: ImageBlock
